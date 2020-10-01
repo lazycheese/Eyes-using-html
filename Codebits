@@ -56,3 +56,4 @@
    <animate attributeName="ry" values="35;35;35;35;35;35;35;2;35;2;35" dur="5s" fill="freeze" repeatCount="1"/>
    </ellipse>
 </svg>
+<!--I'll help-->
